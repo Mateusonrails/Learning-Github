@@ -8,3 +8,5 @@ Para poder iniciar o uso da ferramenta, por favor, digite:
   node app.js
 ```
 🤐
+
+:)
