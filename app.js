@@ -6,3 +6,6 @@ console.log("HELLOOOOO WORLD!!!!!!!");
 function mostraAnuncio() {
     alert("OLÁ MEU CARO TUDO BEM??")
 }
+
+let randomArray = ['pao', 'macarrao', 'abroba', 'rice', 'lettuce', 'pineapple'];
+
